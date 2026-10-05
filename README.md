@@ -1,6 +1,6 @@
 # technotest-weather
 Test task: weather
-# Тестовое задание: Парсер погоды
+# Weather parser
 
 Скрипт на Python для получения данных о погоде через API wttr.in.
 
